@@ -1,2 +1,2 @@
 # Final-Fight-Enhanced
-Homebrew conversion of Capcom's beat 'em up to the Commodore Amiga
+Potential homebrew conversion of Capcom's beat 'em up to the Commodore Amiga
